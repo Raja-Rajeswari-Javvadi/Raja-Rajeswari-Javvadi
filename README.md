@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot....)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm RAJA RAJESWARI JAVVADI</h1>
 <h3 align="center">Passionate web developer exploring MERN stack,building projects and sharing knowledge along the way</h3>
-<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
+<img align="right" alt="coding" witdh="200" Height="350" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raja-rajeswari-javvadi&label=Profile%20views&color=0e75b6&style=flat" alt="raja-rajeswari-javvadi" /> </p>
 
 - 🔭 I’m currently working on **RentalFinder**
