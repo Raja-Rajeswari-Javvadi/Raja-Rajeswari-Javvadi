@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raja-rajeswari-javvadi.github.io/My-Portfolio/](https://raja-rajeswari-javvadi.github.io/My-Portfolio/)
 
-- 📝 I regularly write articles on [https://raja-rajeswari-javvadi.github.io/Oasis-Infobyte/](https://raja-rajeswari-javvadi.github.io/Oasis-Infobyte/)
+- 📝 I regularly write articles on [https://raja-rajeswari-javvadi.github.io/Oasis-Infobyte-Task1/](https://raja-rajeswari-javvadi.github.io/Oasis-Infobyte-Task1/)
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,Github,C,Python**
 
