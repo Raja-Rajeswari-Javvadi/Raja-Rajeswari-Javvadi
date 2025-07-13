@@ -22,7 +22,7 @@ I enjoy building responsive, user-friendly web interfaces and extracting meaning
 - 📫 Reach me at: **rajeswari.javvadi@sasi.ac.in**
 - 🌐 Portfolio: [Visit here](https://raja-rajeswari-javvadi.github.io/My-Portfolio/)
 - 📄 Resume: [View PDF](https://ik.imagekit.io/fu4uxhoyq/WEB%20DEVELOPER.pdf?updatedAt=1740669345758)
-⚡ Fun fact **Raji’s superpower? Turning coffee into code and projects into reality! ☕💻✨** 
+- ⚡ Fun fact: **Raji’s superpower? Turning coffee into code and projects into reality! ☕💻✨** 
 
 ---
 
