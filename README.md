@@ -1,28 +1,3 @@
-Thanks, Raji! Your GitHub README is already informative and enthusiastic, but I’ll now help you **remodel it into a more professional, visually engaging, and creative version**, while also including the **details from your resume** once you provide that.
-
----
-
-## 🔧 Before the Upgrade
-
-Before I update your README, please upload or paste your **latest resume content**. I’ll extract:
-
-* Key **skills**
-* **Certifications**
-* **Projects**
-* **Internships**
-* **Achievements**
-
-…and then integrate them creatively into your GitHub profile.
-
----
-
-## 🔄 Sample Upgraded GitHub Profile README (Without Resume Yet)
-
-Here’s a **preview** of how your profile will look after we include the resume data:
-
----
-
-```markdown
 <h1 align="center">Hi there 👋, I'm Raja Rajeswari Javvadi</h1>
 <h3 align="center">Turning ideas into interactive web experiences 🚀 | Web Developer | MERN Stack Learner | Problem Solver</h3>
 
@@ -101,4 +76,3 @@ Once you share your **resume**, I’ll:
 ---
 
 Ready when you are to proceed with the resume! You can paste the content directly or upload the file.
-```
