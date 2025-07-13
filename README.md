@@ -1,30 +1,92 @@
 <h1 align="center">Hi there 👋, I'm Raja Rajeswari Javvadi</h1>
-<h3 align="center">Turning ideas into interactive web experiences 🚀 | Web Developer | MERN Stack Learner | Problem Solver</h3>
+<h3 align="center">Frontend Developer | Data Science Enthusiast | B.Tech CSE (Data Science) @ SITE'26</h3>
 
 <p align="center">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif" width="300" alt="coding gif" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raja-rajeswari-javvadi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=raja-rajeswari-javvadi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on: **RentalFinder** – A platform for discovering nearby rental houses.
-- 🌱 Exploring: **JavaScript, Tailwind CSS, MERN Stack** and building scalable web apps.
-- ✨ Passionate about: Clean code, UI/UX, and open-source contributions.
-- 📝 Writing blogs to share knowledge: [Visit Blog](https://raja-rajeswari-javvadi.github.io/Oasis-Infobyte-Task1/)
-- 💬 Ask me about: **HTML, CSS, Bootstrap, GitHub, C, Python**
-- 📫 How to reach me: **rajeswari.javvadi@sasi.ac.in**
-- 📄 Resume: [View My Resume](https://ik.imagekit.io/fu4uxhoyq/WEB%20DEVELOPER.pdf?updatedAt=1740669345758)
+Hello! I’m **Raja Rajeswari Javvadi**, a final-year B.Tech CSE (Data Science) student at SITE’26 and an aspiring **Software Engineer** passionate about both **Frontend Development** and **Data Science**.
+
+I enjoy building responsive, user-friendly web interfaces and extracting meaningful insights from data. I believe in *learning by doing* and work on projects that strengthen my technical foundation.
+
+- 🔭 Currently working on: **RentalFinder** – A platform to find nearby rental houses
+- 🌱 Exploring: **JavaScript, Tailwind CSS, MERN Stack, Data Science tools**
+- 💬 Ask me about: **HTML, CSS, Bootstrap, GitHub, Python, C**
+- 📫 Reach me at: **rajeswari.javvadi@sasi.ac.in**
+- 🌐 Portfolio: [Visit here](https://raja-rajeswari-javvadi.github.io/My-Portfolio/)
+- 📄 Resume: [View PDF](https://ik.imagekit.io/fu4uxhoyq/WEB%20DEVELOPER.pdf?updatedAt=1740669345758)
 - ⚡ Fun fact: Turning ☕ into code and bugs into features!
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Technical Skills
+
+**Languages:**  
+Python (Advanced) | C (Intermediate) | Java (Basic)  
+
+**Frontend Development:**  
+HTML | CSS | JavaScript | Bootstrap | Tailwind CSS  
+
+**Databases:**  
+SQL (Strong) | MongoDB (Intermediate)  
+
+**Version Control:**  
+Git | GitHub  
+
+**Other Focus Areas:**  
+Aptitude | Problem Solving | Data Science Exploration
+
+---
+
+### 🌱 Soft Skills
+
+- 🤝 Team Collaboration  
+- 🗣️ Effective Communication  
+- ⏱️ Time Management  
+- 🔁 Adaptability  
+- 📚 Eagerness to Learn and Grow  
+
+---
+
+### 🚀 Featured Projects
+
+- **VIBECART** – E-commerce website using Bootstrap  
+- **Restaurant Website** – Responsive web app for table booking  
+- **Personal Portfolio** – Live showcase of skills and projects  
+
+---
+
+### 💼 Internships
+
+- 💻 Web Development Intern @ SkillDzire – *May 2025*  
+- 📊 Data Science Intern @ Nyera – *June 2025*  
+- 📱 Android Developer Intern @ AICTE Eduskills – *June 2024*  
+- 🤖 AI/ML Intern @ AICTE Eduskills – *March 2024*  
+- 🔍 Machine Learning Intern @ SkillDzire – *May 2024*  
+
+---
+
+### 📜 Certifications
+
+- ✅ **Android Developer Certificate** – *AICTE*
+- ✅ **MongoDB Certificate** – *Infosys Springboard*
+- ✅ **Python for Data Science** – *IBM*
+- ✅ **AI/ML Internship Certificate** – *AICTE*
+- ✅ **Data Science & Analytics** – *HP*
+- ✅ **Intro to Generative AI** – *IBM SkillsBuild*
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/raja rajeswari javvadi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/raji_javvadi3" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -35,44 +97,10 @@
 
 ---
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+### 📊 GitHub Stats
 
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raja-rajeswari-javvadi&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raja-rajeswari-javvadi&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-rajeswari-javvadi&" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raja-rajeswari-javvadi&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raja-rajeswari-javvadi&layout=compact&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-rajeswari-javvadi&theme=default" />
 </p>
-
----
-
-### 🚀 Featured Projects
-<!-- Once resume is shared, projects will be dynamically inserted here -->
-
----
-
-### 🏅 Achievements (Coming soon from resume)
-
----
-
-Once you share your **resume**, I’ll:
-- List your **projects** under "🚀 Featured Projects"
-- Add **certifications or badges**
-- Mention **internship experiences** creatively
-
----
-
-Ready when you are to proceed with the resume! You can paste the content directly or upload the file.
