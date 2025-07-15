@@ -21,8 +21,7 @@ I love coding clean UIs, solving real-world problems, and diving deep into meani
 - 📫 **Email me at:** rajeswari.javvadi@sasi.ac.in  
 - 🌐 **Portfolio:** [Click to Visit 🚀](https://raja-rajeswari-javvadi.github.io/My-Portfolio/)  
 - 📄 **Resume:** [View PDF 📎](https://ik.imagekit.io/fu4uxhoyq/WEB%20DEVELOPER.pdf?updatedAt=1740669345758)  
-- ⚡ **Fun Fact:** I turn ☕ into 💻 and dreams into projects!
-
+- ⚡ Fun fact: **Raji’s superpower? Turning coffee into code and projects into reality! ☕💻✨** 
 ---
 
 ### 💻 Tech Stack & Tools
