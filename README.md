@@ -57,7 +57,8 @@ I love coding clean UIs, solving real-world problems, and diving deep into meani
 ### 💼 Internships
 
 - 💻 **Web Development Intern** – *SkillDzire (May 2025)*  
-- 📊 **Data Science Intern** – *Nyera (June 2025)*  
+- 📊 **Data Science Intern** – *Nyera (June 2025)*
+- 🌐 **Web Development Intern** – *Oasis Infobyte (March 2025)*
 - 📱 **Android Developer Intern** – *AICTE Eduskills (June 2024)*  
 - 🤖 **AI/ML Intern** – *AICTE Eduskills (March 2024)*  
 - 🔍 **Machine Learning Intern** – *SkillDzire (May 2024)*
