@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | 📊 Data Science Enthusiast | 🎓 B.Tech CSE (DS) @ SITE'26</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif" />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif" width="300" alt="coding gif" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I’m passionate about crafting sleek UIs, building real-world web apps, and dig
 
 - 🌱 **Currently Learning:** JavaScript | Tailwind CSS | MERN Stack | Data Science tools  
 - 💬 **Ask me about:** HTML | CSS | Bootstrap | GitHub | Python | C  
-- 📫 **Email me:** rajeswari.javvadi@sasi.ac.in  
+- 📫 **Email me at:** rajeswari.javvadi@sasi.ac.in  
 - 🌐 **Portfolio:** [Click to Visit 🚀](https://raja-rajeswari-javvadi.github.io/My-Portfolio/)  
 - 📄 **Resume:** [View PDF 📎](https://ik.imagekit.io/fu4uxhoyq/WEB%20DEVELOPER.pdf?updatedAt=1740669345758)  
 - ⚡ Fun fact: *I turn ☕ into code and projects into reality!*
@@ -48,14 +48,6 @@ I’m passionate about crafting sleek UIs, building real-world web apps, and dig
 - 🧩 Adaptability  
 - 📚 Continuous Learning  
 - ⏳ Time Management  
-
----
-
-## 🛠️ Currently Working On
-
-<p align="center">
-  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/code.gif?raw=true" width="300" />
-</p>
 
 ---
 
@@ -117,5 +109,5 @@ I’m passionate about crafting sleek UIs, building real-world web apps, and dig
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   <br>
-  <strong>✨ Thanks for visiting my profile ✨</strong>
+  <strong>✨ Thanks for stopping by! Let's connect and grow together. ✨</strong>
 </p>
