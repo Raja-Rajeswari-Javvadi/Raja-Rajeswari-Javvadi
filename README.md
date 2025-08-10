@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raja Rajeswari Javvadi</h1>
-<h3 align="center">Frontend Developer | Data Science Enthusiast</h3>
+<h1 align="center">✨ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Raja Rajeswari Javvadi ✨</h1>
+<h3 align="center">🚀 Frontend Developer | 📊 Data Science Enthusiast | 🎓 B.Tech CSE (DS) @ SITE'26</h3>
 
 <p align="center">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif" width="300" alt="coding gif" />
@@ -8,7 +8,6 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class SoftwareEngineer:
 
@@ -20,10 +19,13 @@ class SoftwareEngineer:
     def say_hi(self):
         print("Thanks for visiting my profile! Hope you find some of my work interesting.")
 
-
 me = SoftwareEngineer()
 me.say_hi()
+```
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raja-rajeswari-javvadi&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
@@ -119,8 +121,6 @@ I’m passionate about crafting sleek UIs, building real-world web apps, and dig
   <br><br>
   <img src="https://streak-stats.demolab.com?user=raja-rajeswari-javvadi&theme=radical" alt="GitHub Streak" width="80%" />
 </p>
-
-
 
 ---
 
