@@ -101,8 +101,9 @@ I’m passionate about crafting sleek UIs, building real-world web apps, and dig
   <img src="https://github-readme-stats.vercel.app/api?username=raja-rajeswari-javvadi&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-rajeswari-javvadi&layout=compact&theme=radical" width="40%" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raja-rajeswari-javvadi&theme=radical" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=raja-rajeswari-javvadi&theme=radical" alt="GitHub Streak" width="80%" />
 </p>
+
 
 ---
 
